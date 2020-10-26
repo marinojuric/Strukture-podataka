@@ -1,0 +1,5 @@
+IME	PREZIME	BOD
+Marino	Juric	45
+Tonci	Vujic	35
+Frane	Juric	40
+Mario	Zeravica	25
